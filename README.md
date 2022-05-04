@@ -1,5 +1,12 @@
 # My-Todo-List-App-SpringProject
 
+## Getting Started my-todo
+
+Runs the app in the development mode.
+Open http://localhost:8070 to view it in the browser.
+
+
+
 ## Getting Started frontend/todo-frontend
 ```
 npm install
