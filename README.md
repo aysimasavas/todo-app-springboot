@@ -13,6 +13,10 @@
 - [Service-Demo](https://spring-my-todo-service.herokuapp.com/swagger-ui/index.html)
 - [Frontend-Demo](https://my-todo-client.herokuapp.com)
 
+In order to use the application, you must first register and then log in.
+A Bearer Token is generated for you when you log in. 
+You gain access by using that token in Swagger.
+
 
 
 ## Getting Started my-todo
