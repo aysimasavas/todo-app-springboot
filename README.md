@@ -2,8 +2,8 @@
 
 ## Getting Started frontend/todo-frontend
 ```
-## npm install
-## npm start
+npm install
+npm start
 ```
 
 Runs the app in the development mode.
