@@ -1,6 +1,6 @@
 # My-Todo-List-App-SpringProject
 
-##Technology Stack:
+## Technology Stack:
 - Spring boot
 - Spring Data
 - Spring Security (JWT)
