@@ -10,8 +10,8 @@
 - Heroku
 - React frontend
 
-[Service-Demo]  (https://spring-my-todo-service.herokuapp.com/swagger-ui/index.html)
-[Frontend-Demo] (https://my-todo-client.herokuapp.com)
+- [Service-Demo]  (https://spring-my-todo-service.herokuapp.com/swagger-ui/index.html)
+- [Frontend-Demo] (https://my-todo-client.herokuapp.com)
 
 
 
