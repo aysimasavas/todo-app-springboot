@@ -8,6 +8,8 @@ Open http://localhost:8070 to view it in the browser.
 
 
 ## Getting Started frontend/todo-frontend
+cd frontend/todo-frontend
+
 ```
 npm install
 npm start
