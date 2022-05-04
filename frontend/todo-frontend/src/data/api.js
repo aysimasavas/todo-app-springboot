@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8070"
+const BASE_URL = "https://spring-my-todo-service.herokuapp.com"
 const login = (username, password) => {
     const request = {
         method: "POST",
